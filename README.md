@@ -3,16 +3,15 @@
 ### <img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/bird.gif" width="24px">
 
 <img align="right" width="300px" height="175px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-<p>
-  <em>
-    A boy who loves to <b>code</b> and <b>solve problems</b> <br> 
-    I am a Third year undergraduate EXTC engineering student from <b>Mumbai University</b>. <br>
-    <b>Problem solver</b>&nbsp;<br> 
-    <b>Full Stack Developer</b>&nbsp;<br> 
-    Currently learning and mastering <b>MERN stack</b> everyday <br>
-    Never giving up and always trying to do my best!<img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Medal.gif" width="20px">
-  </em>  
-</p>
+
+
+- <em>A Guy who loves to <b>code</b> and <b>solve problems</b></em> 
+- <em>I am a Third year undergraduate EXTC engineering student from <b>Mumbai University</b>.</em>
+- <em><b>Problem solver</b>&nbsp;</em> 
+- <em><b>Full Stack Developer</b>&nbsp;</em>
+- <em>Currently learning and mastering <b>MERN stack</b> everyday</em>
+- <em>Never giving up and always trying to do my best!</em><img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Medal.gif" width="20px">
+
 
 ---
 
