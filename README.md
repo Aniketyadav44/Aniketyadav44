@@ -37,9 +37,9 @@
 <img align="left" alt="Aniket Yadav | Python" width="40px" height="40px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Python.png" />
 <img align="left" alt="Aniket Yadav | Android" width="40px" height="40px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Android.png" />
 <img align="left" alt="Aniket Yadav | Flutter" width="40px" height="40px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Flutter.png" />
-<br><br>
 
 ---
+
   <p align="left">👨🏼‍💻 <b>Let's Connect:</b>&nbsp;<br></p>
   <a href="https://www.linkedin.com/in/aniketyadav4848/">
     <img align="left" alt="Aniket Yadav | Linkedin" width="24px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Linkedin.svg" />
