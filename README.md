@@ -1,6 +1,6 @@
 # Aniket Yadav&nbsp;<img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/boy.gif" width="80px" height="80px">
 
-### <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/bird.gif" width="24px">
+### <img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/bird.gif" width="24px">
 
 <p>
   <em>
