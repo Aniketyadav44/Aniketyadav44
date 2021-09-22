@@ -36,7 +36,7 @@
 <img align="left" alt="Aniket Yadav | JAVA" width="40px" height="40px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/JAVA.png" />
 <img align="left" alt="Aniket Yadav | Python" width="40px" height="40px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Python.png" />
 <img align="left" alt="Aniket Yadav | Android" width="40px" height="40px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Android.png" />
-<img align="left" alt="Aniket Yadav | Flutter" width="40px" height="40px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Flutter.png" />
+<img align="left" alt="Aniket Yadav | Flutter" width="40px" height="40px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Flutter.png" /><br><br>
 
 ---
 
