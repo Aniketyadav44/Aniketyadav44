@@ -45,6 +45,9 @@
   <a href="https://www.linkedin.com/in/aniketyadav4848/">
     <img align="left" alt="Aniket Yadav | Linkedin" width="24px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Linkedin.svg" />
   </a>
+  <a href="https://anikety.netlify.app/">
+    <img align="left" alt="Aniket Yadav | Portfolio" width="26px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/webicon.png" />
+  </a>
   <a href="https://twitter.com/AniketY8888">
     <img align="left" alt="Aniket Yadav | Twitter" width="26px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Twitter.svg" />
   </a>
