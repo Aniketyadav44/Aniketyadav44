@@ -6,7 +6,7 @@
 
 
 - <em>A Guy who loves to <b>code</b> and <b>solve problems</b></em> 
-- <em>I am a Third year undergraduate EXTC engineering student from <b>Mumbai University</b>.</em>
+- <em>I am a Final year undergraduate EXTC engineering student from <b>Mumbai University</b>.</em>
 - <em><b>Problem solver</b>&nbsp;</em> 
 - <em><b>Full Stack/App Developer</b>&nbsp;</em>
 - <em>Never giving up and always trying to do my best!</em><img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Medal.gif" width="20px">
