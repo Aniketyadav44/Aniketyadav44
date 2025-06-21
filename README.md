@@ -5,11 +5,10 @@
 <img align="right" width="300px" height="175px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 
-- <em>A Guy who loves to <b>code</b> and <b>solve problems</b></em> 
-- <em>I am a Final year undergraduate EXTC engineering student from <b>Mumbai University</b>.</em>
-- <em><b>Problem solver</b>&nbsp;</em> 
-- <em><b>Full Stack/App Developer</b>&nbsp;</em>
-- <em>Never giving up and always trying to do my best!</em><img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Medal.gif" width="20px">
+- <em>A software engineer passionate about <b>backend development</b>, <b>systems architecture</b> and <b>cloud infrastructure</b>.&nbsp;</em>
+- <em>I love building <b>scalable systems</b> and understanding how things work under the hood.&nbsp;</em> 
+- <em>Currently working with <b>Golang</b>, <b>Docker</b>, <b>PostgreSQL</b>, <b>Redis</b>, <b>Cloud</b> and <b>Flutter</b>.&nbsp;</em>
+- <em>Always learning, always building — from <b>clean architecture</b> to <b>distributed systems</b>!</em><img src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Medal.gif" width="20px">
 
 
 ---
@@ -44,13 +43,13 @@
   <a href="https://www.linkedin.com/in/aniketyadav4848/">
     <img align="left" alt="Aniket Yadav | Linkedin" width="24px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Linkedin.svg" />
   </a>
-  <a href="https://anikety.netlify.app/">
+  <a href="https://anikety.com/">
     <img align="left" alt="Aniket Yadav | Portfolio" width="26px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/webicon.png" />
   </a>
-  <a href="https://twitter.com/AniketY8888">
+  <a href="https://x.com/anikydv">
     <img align="left" alt="Aniket Yadav | Twitter" width="26px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/aniket.cp/">
+  <a href="https://www.instagram.com/anikettsy/">
     <img align="left" alt="Aniket Yadav | Instagram" width="24px" src="https://github.com/aniketyadav44/aniketyadav44/blob/main/Assets/Instagram.svg" />
   </a>
   <a href="mailto:aniani4848@gmail.com">
